@@ -1,0 +1,35 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset files
+data/raw/*
+data/processed/*
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Experiment outputs
+experiments/**/checkpoints/
+experiments/**/logs/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env

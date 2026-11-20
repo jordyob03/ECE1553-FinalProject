@@ -1,0 +1,29 @@
+
+# Deep Learning
+torch
+torchvision
+
+# Scientific Computing
+numpy
+scipy
+pandas
+scikit-learn
+
+# EEG Processing
+mne
+h5py
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter
+jupyterlab
+ipykernel
+
+# Utilities
+tqdm
+pyyaml
+
+# Testing
+pytest
